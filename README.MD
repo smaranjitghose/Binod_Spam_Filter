@@ -1,4 +1,4 @@
-<h1 align = "center"> Binod Spam Searcher🚫</h1>
+<h1 align = "center"> Binod Spam Filter🚫</h1>
 
 Have you been puzzled🤔 seeing the word "Binod" trending 📈lately these days!
 <p align = "center"><img src = "https://media.giphy.com/media/2YnutB6bmlLaX7eG89/giphy.gif" width = 50%></p>

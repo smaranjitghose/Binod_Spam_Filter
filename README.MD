@@ -35,7 +35,7 @@ Well [Ishan Sharma](www.github.com/ishandeveloper) wanted to bring more to the t
 So, with some JS and our favorite browsers, you can now right away block the "Binod" spams from messages to Headlines!
 <p align = "center"><img src = "https://media.giphy.com/media/TIRlx3Fzi1A7L2d5z7/giphy.gif" width = 50%></p>
 
-<h2 align = "center">So want to use our web messiah to get rescued the evil of Binod!</h2>
+<h2 align = "center">So want to use our web messiah to get rescued from the evil of Binod!</h2>
 <p align = "center"><img src = "https://media.giphy.com/media/vgsj2QCJGv7Xi/giphy.gif" width = 50%></p>
 
 Here you go:

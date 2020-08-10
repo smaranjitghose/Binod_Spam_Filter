@@ -52,7 +52,8 @@ Here you go:
 
 Baam!💣 you just got saved from the Binod  Virus
 
-<p align = "center"><img src = "./assets/demo.png" width = 50%></p>
+<p align = "center"><img src = "./assets/demo.png" width = 80%></p>
+This is what happens when you enable the extension and come back to this repo
 
 <h3 align = "center">Firefox User?</h3>
 

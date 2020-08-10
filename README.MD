@@ -36,7 +36,7 @@ So, with some JS and our favorite browsers, you can now right away block the "Bi
 <p align = "center"><img src = "https://media.giphy.com/media/TIRlx3Fzi1A7L2d5z7/giphy.gif" width = 50%></p>
 
 <h2 align = "center">So want to use our web messiah to get rescued the evil of Binod!</h2>
-<p align = "center">><img src = "https://media.giphy.com/media/vgsj2QCJGv7Xi/giphy.gif" width = 50%></p>
+<p align = "center"><img src = "https://media.giphy.com/media/vgsj2QCJGv7Xi/giphy.gif" width = 50%></p>
 
 Here you go:
 
@@ -51,6 +51,9 @@ Here you go:
 - Navigate to the ```Binod_Spam_Filter``` directory and select ```web_extension```
 
 Baam!💣 you just got saved from the Binod  Virus
+
+<p align = "center"><img src = "./assets/demo.png" width = 80%></p>
+This is what happens when you enable the extension and come back to this repo
 
 <h3 align = "center">Firefox User?</h3>
 

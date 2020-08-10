@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Binod Filter",
-  "version": "1.0.0",
-  "description": "A filter🔎 for flagging these 'BINOD' spams online 😉",
+  "version": "0.0.1",
+  "description": "A filter🔎 for blocking all those 'BINOD' spams online 😉",
 
   "icons": {
     "16": "icons/16x16.png",
@@ -17,7 +17,7 @@
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["filter.js"]
+      "js": ["popup.js"]
     }
   ]
 }

@@ -28,13 +28,15 @@ Here you go:
 <h1 align = "center"> Bringing the magic to the browser!</h1>
 And you thought that it's done?
 <p align = "center"><img src = "https://media.giphy.com/media/izywsUxDbxvdJbOSfy/giphy.gif" width = 50%></p>
-Well [Ishan](www.github.com/ishandeveloper) wanted to bring more to the table!
+
+Well [Ishan Sharma](www.github.com/ishandeveloper) wanted to bring more to the table!
+
 <p align = "center"><img src = "https://media.giphy.com/media/2tKytthwPBM5CSSYdk/giphy.gif" width = 50%></p>
 So, with some JS and our favorite browsers, you can now right away block the "Binod" spams from messages to Headlines!
 <p align = "center"><img src = "https://media.giphy.com/media/TIRlx3Fzi1A7L2d5z7/giphy.gif" width = 50%></p>
 
-<h2 align = "center">Usage for our web messiah from the evil of Binod!</h2>
-<p align = "center">><img src = "https://media.giphy.com/media/3Xw6TZ8xgjqojOwlvr/giphy.gif" width = 50%></p>
+<h2 align = "center">So want to use our web messiah to get rescued the evil of Binod!</h2>
+<p align = "center">><img src = "https://media.giphy.com/media/vgsj2QCJGv7Xi/giphy.gif" width = 50%></p>
 
 Here you go:
 
@@ -53,7 +55,8 @@ Baam!💣 you just got saved from the Binod  Virus
 <h3 align = "center">Firefox User?</h3>
 
 Well [Ishan](www.github.com/ishandeveloper)  Did'nt forget about you after all!
-<p align = "center">><img src = "https://media.giphy.com/media/W5kjaqwDHgg5FZydTs/giphy.gif" width = 50%></p>
+
+<p align = "center"><img src = "https://media.giphy.com/media/W5kjaqwDHgg5FZydTs/giphy.gif" width = 50%></p>
 
 His filter will be available soon [here](https://addons.mozilla.org/en-US/firefox/addon/binod-filter/`)
 
